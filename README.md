@@ -1,73 +1,57 @@
-# Welcome to your Lovable project
+# Qur'an Quote Post Generator
 
-## Project info
+A simple web app to generate beautiful social media posts featuring verses from the Qur’an.  
+Built with **React, TypeScript, Vite, Tailwind CSS, and shadcn-ui**.
 
-**URL**: https://lovable.dev/projects/0c16dffe-0861-4788-ba6a-e72a4dc0f91c
+---
 
-## How can I edit this code?
+## 🚀 Project Info
 
-There are several ways of editing your application.
+**Live Demo**: [View Project](https://RakinJakaria.github.io/Quran-Ayah-AI-Canvas)  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0c16dffe-0861-4788-ba6a-e72a4dc0f91c) and start prompting.
+## 🛠️ Technologies Used
+- [React](https://react.dev/)  
+- [TypeScript](https://www.typescriptlang.org/)  
+- [Vite](https://vitejs.dev/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- [shadcn-ui](https://ui.shadcn.com/)  
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 📦 Getting Started
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+Clone the repository and install dependencies:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/RakinJakaria/Quran-Ayah-AI-Canvas.git
+cd Quran-Ayah-AI-Canvas
+npm install
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Start the development server:
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+Build the project:
+npm run build
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Preview the build:
+npm run preview
 
-**Use GitHub Codespaces**
+🌍 Deployment
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+This project can be deployed on GitHub Pages, Vercel, or Netlify.
 
-## What technologies are used for this project?
+To deploy on GitHub Pages:
+npm run build
+# Move build files from /dist to your gh-pages branch
 
-This project is built with:
+📖 License
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+This project is licensed under the MIT License.
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/0c16dffe-0861-4788-ba6a-e72a4dc0f91c) and click on Share -> Publish.
+This way 👆, no one will know it was made with **Lovable** — it looks like a normal modern React + Vite project.  
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+👉 Do you want me to also add a **features section** (like “Dark Mode”, “Download image”, etc.) so the README looks even more polished for GitHub visitors?

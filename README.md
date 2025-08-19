@@ -30,12 +30,15 @@ cd Quran-Ayah-AI-Canvas
 npm install
 
 Start the development server:
+```sh
 npm run dev
 
 Build the project:
+```sh
 npm run build
 
 Preview the build:
+```sh
 npm run preview
 
 🌍 Deployment
